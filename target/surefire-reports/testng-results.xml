@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-02T16:55:12 IST" name="Suite" finished-at="2024-10-02T16:56:40 IST" duration-ms="87914">
+    <groups>
+    </groups>
+    <test started-at="2024-10-02T16:55:12 IST" name="Test" finished-at="2024-10-02T16:56:40 IST" duration-ms="87914">
+      <class name="testngtestcases.SendPostRequest">
+        <test-method is-config="true" signature="beforTest()[pri:0, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:55:12 IST" name="beforTest" finished-at="2024-10-02T16:56:22 IST" duration-ms="69462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method signature="sendPost()[pri:1, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:56:22 IST" name="sendPost" description="Sending post request " finished-at="2024-10-02T16:56:25 IST" duration-ms="3438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendPost -->
+        <test-method signature="sendGetRequest()[pri:2, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:56:25 IST" name="sendGetRequest" description="Sending get request to see the result" finished-at="2024-10-02T16:56:30 IST" duration-ms="5214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGetRequest -->
+        <test-method signature="sendPutRequest()[pri:3, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:56:30 IST" name="sendPutRequest" description="Sending Put request to update the result" finished-at="2024-10-02T16:56:35 IST" duration-ms="4515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendPutRequest -->
+        <test-method signature="sendGetRequest1()[pri:4, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:56:35 IST" name="sendGetRequest1" description="Sending get request to fetch the result" finished-at="2024-10-02T16:56:37 IST" duration-ms="2043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGetRequest1 -->
+        <test-method signature="sendDelete()[pri:5, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:56:37 IST" name="sendDelete" description="Sending delete request to delete the data" finished-at="2024-10-02T16:56:38 IST" duration-ms="1633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendDelete -->
+        <test-method signature="sendGetRequest2()[pri:6, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:56:38 IST" name="sendGetRequest2" description="Sending get request to fetch the result" finished-at="2024-10-02T16:56:40 IST" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGetRequest2 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testngtestcases.SendPostRequest@5460cf3a]" started-at="2024-10-02T16:56:40 IST" name="afterTest" finished-at="2024-10-02T16:56:40 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testngtestcases.SendPostRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2024-10-02T16:56:40 IST" name="Suite (0)" finished-at="2024-10-02T16:56:42 IST" duration-ms="1859">
+    <groups>
+    </groups>
+    <test started-at="2024-10-02T16:56:40 IST" name="Test" finished-at="2024-10-02T16:56:42 IST" duration-ms="1859">
+      <class name="testngtestcases.SendGetRequest">
+        <test-method is-config="true" signature="beforTest()[pri:0, instance:testngtestcases.SendGetRequest@561868a0]" started-at="2024-10-02T16:56:40 IST" name="beforTest" finished-at="2024-10-02T16:56:40 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforTest -->
+        <test-method signature="sendGet()[pri:1, instance:testngtestcases.SendGetRequest@561868a0]" started-at="2024-10-02T16:56:40 IST" name="sendGet" description="Sending get request to fetch the result" finished-at="2024-10-02T16:56:42 IST" duration-ms="1691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGet -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testngtestcases.SendGetRequest@561868a0]" started-at="2024-10-02T16:56:42 IST" name="afterTest" finished-at="2024-10-02T16:56:42 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testngtestcases.SendGetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>

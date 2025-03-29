@@ -1,0 +1,5 @@
+{
+   "Name": "data",
+   "Age": 10,
+   "BookInterests": ["car", "bike", "flight"]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="18.233">
+  <properties />
+
+
+      <testcase name="sendDelete" time="1.633" classname="testngtestcases.SendPostRequest" />
+      <testcase name="sendPost" time="3.438" classname="testngtestcases.SendPostRequest" />
+      <testcase name="sendGetRequest" time="5.214" classname="testngtestcases.SendPostRequest" />
+      <testcase name="sendGetRequest2" time="1.390" classname="testngtestcases.SendPostRequest" />
+      <testcase name="sendPutRequest" time="4.515" classname="testngtestcases.SendPostRequest" />
+      <testcase name="sendGetRequest1" time="2.043" classname="testngtestcases.SendPostRequest" />
+
+</testsuite>

@@ -1,0 +1,40 @@
+{
+	"Actors": [
+		{
+			"name": "Tom Cruise",
+			"age": 56,
+			"bornAt": "Syracuse, NY",
+			"birthdate": "July 3, 1962",
+			"photo": "https://jsonformatter.org/img/tom-cruise.jpg"
+		},
+		{
+			"name": "Robert Downey Jr.",
+			"age": 53,
+			"bornAt": "New York City, NY",
+			"birthdate": "April 4, 1965",
+			"photo": "https://jsonformatter.org/img/Robert-Downey-Jr.jpg"
+		}
+	],
+	"Movies": [
+		{
+			"title": "Mission: Impossible",
+			"year": 1996,
+			"director": "Brian De Palma",
+			"actors": [
+				"Tom Cruise",
+				"Jon Voight",
+				"Emmanuelle Béart"
+			]
+		},
+		{
+			"title": "Iron Man",
+			"year": 2008,
+			"director": "Jon Favreau",
+			"actors": [
+				"Robert Downey Jr.",
+				"Gwyneth Paltrow",
+				"Jeff Bridges"
+			]
+		}
+	]
+}
